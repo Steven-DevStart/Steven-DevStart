@@ -1,0 +1,1 @@
+const likebutton = document.querySelector('.like-button');

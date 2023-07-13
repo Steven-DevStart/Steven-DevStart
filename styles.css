@@ -1,17 +1,23 @@
 img {
-  height: 100px;
-  width: 100px;
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
 }
 
 body {
   margin-left: 364px;
   margin-right: 364px;
-  margin-bottom: 80px;
-  margin-top: 80px;
+  margin-bottom: 60px;
+  margin-top: 60px;
   @media screen and (max-width: 600px) {
     margin-left: 8px;
     margin-right: 8px;
     margin-bottom: 40px;
     margin-top: 8px;
   }
+}
+
+.likebutton{
+  height: 60px;
+  width: 60px;
 }
